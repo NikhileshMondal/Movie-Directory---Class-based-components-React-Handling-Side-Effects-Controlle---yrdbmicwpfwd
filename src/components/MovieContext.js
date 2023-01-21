@@ -1,5 +1,3 @@
-
-
 const moviesList = [
   {
     id: 1,
@@ -33,3 +31,4 @@ const moviesList = [
   },
 ]
 
+export default moviesList;
